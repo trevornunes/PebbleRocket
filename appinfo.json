@@ -1,0 +1,31 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "trevor.nunes@gmail.com",
+    "longName": "ROCKET APP",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/earth.png",
+                "name": "IMAGE_EARTH",
+                "type": "png"
+            },
+            {
+                "file": "images/rocket.png",
+                "name": "IMAGE_ROCKET",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "ROCKET",
+    "uuid": "4e106074-fe39-4628-9c07-ae73d3f3544e",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
